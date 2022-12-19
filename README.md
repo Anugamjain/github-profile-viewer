@@ -1,5 +1,5 @@
-## Country-search
-In this project I have to create a country searching web app, which can search different countries using different parameters.<br>
+## Github profile viewer
+In this project I have to create a web app in which user can see github profile by using github username.<br>
   
 ## Technology used
 HTML , CSS , Bootstrap and Javascript 
